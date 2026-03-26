@@ -91,7 +91,7 @@ daily_routine:
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naoki-Ii&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Naoki-Ii&theme=discord&no-frame=true&no-bg=true&column=7)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
